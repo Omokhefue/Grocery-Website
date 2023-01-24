@@ -1,2 +1,2 @@
 # Grocery-Website
-Fully responsive with functionality.
+Fully responsive grocery website with functionality.
